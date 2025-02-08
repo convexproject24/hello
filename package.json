@@ -19,7 +19,11 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.0.1",
+<<<<<<< HEAD
     "tailwindcss-animated": "^2.0.0"
+=======
+    "tailwindcss-animate": "^1.0.7"
+>>>>>>> 26e37cf7fd165f0536354a9ed1cb98e4ed1e250e
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -30,7 +34,10 @@
     "eslint-config-next": "15.1.6",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
+<<<<<<< HEAD
     "tailwindcss-animate": "^1.0.7",
+=======
+>>>>>>> 26e37cf7fd165f0536354a9ed1cb98e4ed1e250e
     "typescript": "^5"
   }
 }
